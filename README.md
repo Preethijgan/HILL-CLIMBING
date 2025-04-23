@@ -83,9 +83,10 @@ def SimpleHillClimbing():
         iterations += 1
 
 SimpleHillClimbing()
-
-
 ```
+
+
+
 
 <hr>
 <h2>Sample Input and Output</h2>
